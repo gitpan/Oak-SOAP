@@ -1,0 +1,5 @@
+Makefile.PL
+README
+MANIFEST
+lib/Oak/SOAP/Application.pm
+lib/Oak/SOAP/Connector.pm
